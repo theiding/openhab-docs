@@ -38,7 +38,7 @@ To find them if you are not using Openhabian:
 <!-- ![](images/log-screen.png) -->
 
 The console will display the messages as soon as they will be logged.
-Keep this window somewhere in order to take a look inside when it is needed.
+Keep this window somewhere in order to take a look ffdsinside when it is needed.
 We will use it to check the Z-Wave dialogs.
 
 A "clean" startup looks this way in the log file :
